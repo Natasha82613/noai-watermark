@@ -1,0 +1,5 @@
+[project]
+name = "noai-watermark"
+version = "0.1.0"
+description = "Remove invisible AI watermarks (SynthID, StableSignature, TreeRing) and strip AI metadata from images. Open-source CLI & Python toolkit."
+requires-python = ">=3.10"
